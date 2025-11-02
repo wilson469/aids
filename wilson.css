@@ -524,5 +524,41 @@ header{
 .clubimg{
     width:170px;
 }
+    /** clubfounders **/
+.clubfounder{
+    height:260px;
+    width:100%;
+}
+.founder{
+    height:230px;
+    width:160px;
+}
+.clubimg{
+   height:160px;
+   width:160px;
+   background-image: url(images-1/clubmem-1.jpeg);
+   background-size: cover;
+}
+.clubmem{
+    font-weight: 500;
+}
+.memname{
+   font-size: 15px; 
+   font-weight: 500;
+   margin-top: 3px;
+   color:white;
+   
+}
+.branch{
+    font-size: 13px;
+    color: white;
+    font-weight: 500;
+    margin: 2px;
+}
+.position{
+    font-size: smaller;
+    font-weight: 500;
+    color:white;
+}
 
 }
